@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "252279965719",
+    "project_id": "winter-charmer-298218",
+    "storage_bucket": "winter-charmer-298218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252279965719:android:5b8e02d683ae052efd7452",
+        "android_client_info": {
+          "package_name": "com.rmor.maps_tracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252279965719-g543796eotp27sepbk6nfqmh3vanuqat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rmor.maps_tracer",
+            "certificate_hash": "777edf044eb55a33198c11c0159af8df71d318a7"
+          }
+        },
+        {
+          "client_id": "252279965719-t422e0ljo15st1k2u5jcvpovf1npug48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNXWszsuzRUHPDLpJ3JGcrQmCzfik4RgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252279965719-t422e0ljo15st1k2u5jcvpovf1npug48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
